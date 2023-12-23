@@ -1,0 +1,14 @@
+body {
+    background-color: #221b3d;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, p {
+    color: antiquewhite;
+    text-align: center;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
